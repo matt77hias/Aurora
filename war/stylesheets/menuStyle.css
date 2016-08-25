@@ -1,0 +1,59 @@
+	#menu {
+		top: 0px;
+		
+	}
+	
+	#topMenu {
+		background: #333;
+		float: left;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+	}
+	
+	#topMenu li {
+		float: center;
+		margin: 0;
+		padding: 0;
+	}
+	
+	#topMenu a {
+		background: #333 url("images/seperator.gif") bottom right no-repeat;
+		color: #ccc;
+		display: block;
+		float: left;
+		margin: 0;
+		padding: 8px 10px;
+		text-decoration: none;
+		text-align:center;
+	}
+	
+	#topMenu a:hover {
+		background: #2580a2;
+		color: #fff;
+		padding-bottom: 8px;
+	}
+	
+	#userMenu {
+		position: absolute;
+		top: 60px;
+		left: 380px;
+		width: 80px;
+		background-color: #333;
+		border: none;
+		text-decoration: none;
+		color: #ccc;
+		padding: 4px;
+		visibility: hidden;
+	}
+	
+	#userMenu a {
+		text-decoration: none;
+		color: #ccc;
+	}
+	
+	#userMenu a:visited {
+		text-decoration: none;
+		color: #ccc;
+	}

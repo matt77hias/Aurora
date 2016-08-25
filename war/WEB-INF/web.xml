@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://java.sun.com/xml/ns/javaee"
+xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+	
+	<servlet>
+		<servlet-name>Register</servlet-name>
+		<servlet-class>cwb1a.registerServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Register</servlet-name>
+		<url-pattern>/reg</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>Login</servlet-name>
+		<servlet-class>cwb1a.loginServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Login</servlet-name>
+		<url-pattern>/log</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>StopTimer</servlet-name>
+		<servlet-class>cwb1a.TrackingFinished</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>StopTimer</servlet-name>
+		<url-pattern>/stopTimer</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>ActivityQuestion</servlet-name>
+		<servlet-class>cwb1a.ActivityQuestionsServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ActivityQuestion</servlet-name>
+		<url-pattern>/activityQuestions</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+		<servlet-name>Tracking</servlet-name>
+		<servlet-class>cwb1a.TrackingServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Tracking</servlet-name>
+		<url-pattern>/tracking</url-pattern>
+	</servlet-mapping>
+	
+
+		<servlet>
+		<servlet-name>Timer</servlet-name>
+		<servlet-class>cwb1a.TimerServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Timer</servlet-name>
+		<url-pattern>/tim</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>NewAchievement</servlet-name>
+		<servlet-class>cwb1a.NewAchievementServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>NewAchievement</servlet-name>
+		<url-pattern>/newachievement</url-pattern>
+	</servlet-mapping>
+
+	<welcome-file-list>
+		<welcome-file>login.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>

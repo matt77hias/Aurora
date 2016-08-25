@@ -1,0 +1,76 @@
+body 
+{	
+	border:0px;
+	padding:0px;
+	margin:0px; 
+	padding-top:5px;
+}
+
+div.login_container 
+{
+	position:relative;	
+	height:100%;
+	width:100%;
+	
+}
+
+	div.logo
+	{
+		position:relative;
+		width:100%;	
+		
+	}
+
+		div.image
+		{
+			margin-right:auto;
+			margin-left:auto;
+			width:284px;
+			height:120px;
+			background: rgba(0, 0, 80, 1);
+			border-radius: 15px;
+		}
+
+	div.loginForm
+	{
+		margin-top:5px;
+		position:relative;
+		width:284px;
+		margin-right:auto;
+		margin-left:auto;
+		background: rgba(0, 0, 80, 1);
+		border-radius: 15px;
+		color:white;
+		font-variant:small-caps ;
+		padding-top:1px;
+		padding-bottom:1px;
+		
+	}
+
+		div.tekst1
+		{
+			position:relative;
+			width:240px;
+			margin-right:auto;
+			margin-left:auto;
+			font-size: 20px;
+
+		}
+		
+		div.invul
+		{
+			position:relative;
+			width:240px;
+			margin-right:auto;
+			margin-left:auto;
+			font-size: 18px;
+		}
+a:link
+{
+	text-decoration:none;
+}
+
+a:visited
+{
+	text-decoration:none;
+}

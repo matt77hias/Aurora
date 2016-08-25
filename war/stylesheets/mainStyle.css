@@ -1,0 +1,169 @@
+	body {
+		margin: 0;
+		padding: 0;
+		height: 100%;
+		background-image:url(images/login_background.jpg);
+		background-size: 100%;
+		background-repeat:no-repeat;
+		background-attachment:fixed;
+		text-align: left;
+		font: 12px "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+	}
+
+	#inputBox {
+
+		z-index:0;
+		width: 80%;
+		height: auto;
+		background-image: url('stylesheets/images/fadeout.png') background-repeat:repeat-y background-positon: left;
+		border-style: none;
+		width: 100%;
+		background-color: white;
+		opacity: 0.7;
+		-moz-box-shadow: 3px 3px 4px#000;
+		-webkit-box-shadow: 3px 3px 4px #000;
+		box-shadow: 3px 3px 4px #000;
+	}
+
+	#menu {
+		position: fixed;
+		top: 0;
+		right: 0;
+		width: 100%;
+		height: auto;
+		padding: 0;
+		margin: 0;
+		z-index:1;
+		-moz-box-shadow: 3px 3px 4px #000;
+		-webkit-box-shadow: 3px 3px 4px #000;
+		box-shadow: 3px 3px 4px #000;
+	}
+		
+	#content {
+		position: absolute;
+		z-index:0;
+		top:75px;
+		width:80%;
+		padding:5px;
+		background-color:rgba(255,255,255,0.7);
+		margin-left:10%;
+		margin-right:10%;
+	}
+	
+	.whereImNow {
+		left: 80px;
+		position: relative;
+		font-size: 26px;
+		color:black;
+	}
+	
+	#pageCloser {
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		text-align: right;
+		background: #333;
+		opacity: 0.8;
+	}
+	
+	#bottomMenu {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	
+	#bottomMenu a {
+		text-decoration: none;
+		display: block;
+		float: right;
+		margin: 0;
+		padding: 8px 10px;
+		margin: 0;
+		padding: 2px 10px;
+		background: #333 url("images/seperator.gif") bottom right no-repeat;
+		color: #ccc;
+	}
+	
+	div.infoWindow {
+		width: 70%;
+		margin: 0px auto;
+		background: white;
+		display: none;
+		opacity: 0.95;
+		z-index: 150;
+		top: 0px;
+		position: absolute;
+	}
+	
+	.gegevens {
+			
+	}
+	
+	.table_gegevens {
+		
+		font: 12px "Lucida Sans Unicode";
+		text-align:right;
+				
+	}
+	
+	th {
+		font-weight: bold;
+		color: #191970;	
+		padding-left:50px;
+		border-bottom-style: solid;
+		border-width:1px;		
+		
+	}
+	
+	td {
+		padding-left:50px;
+		padding-top:5px;		
+	}
+
+	
+	#timerContent {
+		position: relative;
+		top: 110px;
+		z-index:0;
+		opacity: 0.95;
+		margin-left:10%;
+		margin-right:10%;
+		width:80%;
+		
+	}
+	
+	table
+	{
+		border:1px solid #191970;
+		padding:5px;
+		
+	}
+	
+	#timer_events
+	 {
+		position: relative; 
+		z-index: 0 ;
+	}
+	
+	.graph {
+		position: relative;
+		top: 70px;
+		width:95%;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	li {
+		list-style:none;
+	}
+	
+	#textBox {
+		left:80px;
+		top: 125px;
+		width: 80%;
+		position: absolute;
+		font-size: 15px;
+		color:black;
+		
+	}
+	
