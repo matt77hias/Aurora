@@ -1,7 +1,7 @@
 # Aurora
-Course Problem Solving and Design 3: [Aurora](http://ariadne.cs.kuleuven.be/mediawiki/index.php/CWB1-1112)
+Course Problem Solving and Design 3: [Aurora]()
 
-**Team**:
+**Team [cwb1]((http://ariadne.cs.kuleuven.be/mediawiki/index.php/CWB1-1112))**:
 * [Matthias Moulin](https://github.com/matt77hias) (Computer Science)
 * Nathan Moesen (Chemical Engineering)
 * Pieter Marynissen
