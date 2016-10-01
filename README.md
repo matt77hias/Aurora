@@ -3,5 +3,10 @@ Course Problem Solving and Design 3: [Aurora](http://ariadne.cs.kuleuven.be/medi
 
 **Team**:
 * [Matthias Moulin](https://github.com/matt77hias) (Computer Science)
+* Nathan Moesen 
+* Pieter Marynissen
+* Sebastiaan Maes
+* Sophie Marien
+* Tom Molderez
 
 **Academic Year**: 2011-2012 (1st semester - 1st Bachelor of Science in Engineering: Computer Science)
