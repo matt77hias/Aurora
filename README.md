@@ -10,3 +10,6 @@ Course Problem Solving and Design 3: [Aurora](http://aurora--cwb1.appspot.com)
 * Tom Molderez (Electrical Engineering)
 
 **Academic Year**: 2011-2012 (1st semester - 1st Bachelor of Science in Engineering: Computer Science)
+
+## About
+Web application that accurately tracks study efforts and results in the context of quantified learning and learning analytics.
