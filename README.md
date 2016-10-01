@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/matt77hias/Aurora/blob/master/res/logo.png"></p>
+
 # Aurora
 Course Problem Solving and Design 3: [Aurora](http://aurora--cwb1.appspot.com/)
 
