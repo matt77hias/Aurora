@@ -1,6 +1,6 @@
 <p align="center"><a href="http://aurora--cwb1.appspot.com"><img src="https://github.com/matt77hias/Aurora/blob/master/res/logo.jpg"></a></p>
 
-# Aurora
+# [Aurora](http://aurora--cwb1.appspot.com)
 
 Course Problem Solving and Design 3: [Aurora](http://aurora--cwb1.appspot.com)
 
