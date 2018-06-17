@@ -1,5 +1,10 @@
 <p align="center"><a href="http://aurora--cwb1.appspot.com"><img src="res/logo.jpg"></a></p>
 
+[![License][s1]][li]
+
+[s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
+[li]: https://raw.githubusercontent.com/matt77hias/Aurora/master/LICENSE.txt
+
 # [Aurora](http://aurora--cwb1.appspot.com)
 
 Course Problem Solving and Design 3: [Aurora](http://aurora--cwb1.appspot.com)
