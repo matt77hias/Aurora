@@ -5,11 +5,11 @@
 [s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
 [li]: https://raw.githubusercontent.com/matt77hias/Aurora/master/LICENSE.txt
 
-# [Aurora](http://aurora--cwb1.appspot.com)
+# Aurora
 
-Course Problem Solving and Design 3: [Aurora](http://aurora--cwb1.appspot.com)
+Course Problem Solving and Design 3: Aurora
 
-**Team** [cwb1](http://ariadne.cs.kuleuven.be/mediawiki/index.php/CWB1-1112):
+**Team** cwb1:
 * [Matthias Moulin](https://github.com/matt77hias) (Computer Science)
 * Nathan Moesen (Chemical Engineering)
 * Pieter Marynissen (Chemical Engineering)
